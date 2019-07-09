@@ -1,0 +1,2 @@
+# numericGame
+game numeric
